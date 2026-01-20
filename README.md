@@ -131,5 +131,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=Innovate.%20Secure.%20Scale.&fontSize=30&fontColor=00f2ff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Innovate.+Secure.+Scale." alt="Footer Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
 </div>
