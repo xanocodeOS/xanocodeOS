@@ -122,6 +122,12 @@
 | **Bio Link** | Marketing tool for digital content creators and businesses. | ![Status](https://img.shields.io/badge/🏗️_In_Development-yellow?style=flat-square) |
 | **Phishing Detection** | Advanced phishing detection system to verify email authenticity. | ![Status](https://img.shields.io/badge/⏳_Coming_Soon-orange?style=flat-square) |
 
+<br>
+
+<div align="center">
+  <p><b>🔒 CONFIDENTIALITY PROTOCOL</b></p>
+  <i>Due to Strict Non-Disclosure Agreements (NDAs) and Enterprise Security Standards,<br>a significant portion of our Fintech, Banking, and Government infrastructure projects are <b>not listed publicly</b>.</i>
+</div>
 
 ---
 
