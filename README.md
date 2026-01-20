@@ -96,6 +96,6 @@ We deliver comprehensive digital solutions tailored to modern business needs.
 
   <br/>
   
-  <img src="https://visitcount.itsvg.in/api?id=xanocodeOS&icon=0&color=0" alt="Visitor Count" />
+ 
 
 </div>
