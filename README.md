@@ -107,7 +107,8 @@
 
 | **Project Name** | **Description** | **Launch** |
 | :--- | :--- | :--- |
-| **FinTech Dashboard** | Secure banking analytics platform with real-time data. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](YOUR_LINK_HERE) |
+| **loaneligibility** | Compare All Bank Loan Schemes & Calculate EMI
+Instantly, For Free. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](https://loaneligibility.in/) |
 | **MediCare Hub** | Hospital management system handling 10k+ patients. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](YOUR_LINK_HERE) |
 
 <br>
