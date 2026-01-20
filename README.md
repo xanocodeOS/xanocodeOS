@@ -107,9 +107,8 @@
 
 | **Project Name** | **Description** | **Launch** |
 | :--- | :--- | :--- |
-| **loaneligibility** | Compare All Bank Loan Schemes & Calculate EMI
-Instantly, For Free. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](https://loaneligibility.in/) |
-| **MediCare Hub** | Hospital management system handling 10k+ patients. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](YOUR_LINK_HERE) |
+| **LoanEligibility** | Compare All Bank Loan Schemes & Calculate EMI Instantly, For Free. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](https://loaneligibility.in/) |
+| **Smartsaveusa** | How Do Smart Saving on USA That Guide & Tools. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-black?style=flat-square&logo=google-chrome&logoColor=00f2ff)](https://smartsaveusa.com/) |
 
 <br>
 
@@ -118,8 +117,11 @@ Instantly, For Free. | [![Visit](https://img.shields.io/badge/🚀_Launch_App-bl
 
 | **Project Name** | **Description** | **Status** |
 | :--- | :--- | :--- |
-| **AI Sentinel** | Autonomous cybersecurity defense agent. | ![Status](https://img.shields.io/badge/🏗️_In_Development-yellow?style=flat-square) |
-| **CloudWrapper** | Next-gen Docker container management UI. | ![Status](https://img.shields.io/badge/⏳_Coming_Soon-orange?style=flat-square) |
+| **Chat Room** | Private, end-to-end encrypted secure room for 15-minute sessions. | ![Status](https://img.shields.io/badge/⏳_Coming_Soon-orange?style=flat-square) |
+| **Education IIACL** | Learning platform providing internships tailored to your needs. | ![Status](https://img.shields.io/badge/⏳_Coming_Soon-orange?style=flat-square) |
+| **Bio Link** | Marketing tool for digital content creators and businesses. | ![Status](https://img.shields.io/badge/🏗️_In_Development-yellow?style=flat-square) |
+| **Phishing Detection** | Advanced phishing detection system to verify email authenticity. | ![Status](https://img.shields.io/badge/⏳_Coming_Soon-orange?style=flat-square) |
+
 
 ---
 
