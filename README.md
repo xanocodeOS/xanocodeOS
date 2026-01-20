@@ -1,7 +1,4 @@
-
-
-<!--
-**xanocodeOS/xanocodeOS** is a ✨ _special_ ✨ repository because its `<div align="center">
+<div align="center">
   <a href="https://xanocode.com/">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=280&section=header&text=Xanocode&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Secure%20&%20Scalable%20Software%20Solutions&descAlignY=55&descAlign=50&stroke=000000&strokeWidth=2" alt="Xanocode Header" width="100%"/>
   </a>
@@ -101,16 +98,4 @@ We deliver comprehensive digital solutions tailored to modern business needs.
   
   <img src="https://visitcount.itsvg.in/api?id=xanocodeOS&icon=0&color=0" alt="Visitor Count" />
 
-</div>README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
